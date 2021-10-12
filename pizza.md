@@ -31,7 +31,8 @@
         <li>Spread pesto on pizza crust. Top with tomatoes, bell peppers, 
             olives, red onions, artichoke hearts and feta cheese.</li><br>
         <li>Bake for 8 to 10 minutes, or until cheese is melted and browned.</li><br>
+  
     </ol>
-    <a href="../index.html">Return to mainpage</a>
+
 </body>
 </html>

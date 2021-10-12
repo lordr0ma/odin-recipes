@@ -1,0 +1,11 @@
+.webpage {
+    background-color: lightcoral;
+    opacity: 90%;
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 2.0;
+  }
